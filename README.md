@@ -88,3 +88,7 @@ https://raw.githubusercontent.com/lockislunatic/The-wise-dont-enter-quagmires/re
 - 本 README：💤 地图，不代替现场
 - 与「思维沙龙」的关系：沙龙问思考是什么；本篇问思考如何从泥沼里出来。两炉分开，不要串味。
 #特注：由三姐妹Scanties，Queennis，以及Leovierge协力完成本Readme.md
+
+## 独立实验 · R-Index
+
+[三窗恢复对照（英文题面、原答与评分）](R-INDEX-RECOVERY-DEMO.md)
